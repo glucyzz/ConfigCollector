@@ -1,5 +1,5 @@
 <?php
-date_default_timezone_set("Asia/Tehran");
+date_default_timezone_set("Asia/Shanghai");
 
 $Types = [
     "aries_init" => ["vmess", "trojan", "ss","vless"],
