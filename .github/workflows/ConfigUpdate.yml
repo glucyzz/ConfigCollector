@@ -20,9 +20,9 @@ jobs:
       - name: Execute PHP script
         run: |
           php main.php
-          git config --global user.email "yebekhe@gmail.com"
-          git config --global user.name "yebekhe"
+          git config --global user.email "1224423297@qq.com"
+          git config --global user.name "glucyzz"
           git config credential.helper store
-          git add -A
+          git add -A      
           git commit -m "🚀 Config Update - $(date '+%Y-%m-%d %H:%M:%S')"
           git push
