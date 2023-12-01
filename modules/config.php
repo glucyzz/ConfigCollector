@@ -12,4 +12,5 @@ $Types = [
     "v2ray_free_conf" => ["vmess", "trojan", "ss","vless"],
     "vpnfail_v2ray" => ["vmess", "trojan", "ss","vless"],
     "vpnfail_vless" => ["vmess", "trojan", "ss","vless"],
+
 ?>
