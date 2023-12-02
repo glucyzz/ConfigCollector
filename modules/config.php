@@ -101,7 +101,7 @@ $Types = [
     "heinuhome" => ["vmess", "trojan", "ss","vless"],
     "aries_init" => ["vmess", "trojan", "ss","vless"],
     "ednovasfree" => ["vmess", "trojan",
-"ss","vless"],
-
+    
 ];
+
 ?>
