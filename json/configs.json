@@ -6,8 +6,8 @@
             "logo": null
         },
         "type": "vmess",
-        "config": "vmess:\/\/eyJ2IjoiMiIsInBzIjoiQGVkbm92YXNmcmVlfFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOHx1bmF2YWlsYWJsZSIsImFkZCI6Im5zMS52Mi12aXAuZnVuIiwicG9ydCI6IjgwIiwidHlwZSI6Im5vbmUiLCJpZCI6IjJhNjgzYTU0LWYwOTgtNGQ5OC05MmZjLTc2MmI4NWQ5MDdiOSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2FwaVwvdjNcL2Rvd25sb2FkLmdldEZpbGUiLCJob3N0Ijoic3Nyc3ViLnYwMy5zc3JzdWIuY29tIiwidGxzIjoiIn0=",
-        "time": "2023-12-02 10:13:40"
+        "config": "vmess:\/\/eyJ2IjoiMiIsInBzIjoiQGVkbm92YXNmcmVlfFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOHx1bmF2YWlsYWJsZSIsImFkZCI6IjE5OC40MS4yMjMuMjE1IiwicG9ydCI6IjgwIiwidHlwZSI6Im5vbmUiLCJpZCI6IjJhNjgzYTU0LWYwOTgtNGQ5OC05MmZjLTc2MmI4NWQ5MDdiOSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2FwaVwvdjNcL2Rvd25sb2FkLmdldEZpbGUiLCJob3N0Ijoic3Nyc3ViLnYwMDQuc3Nyc3ViLmNvbSIsInRscyI6IiJ9",
+        "time": "2023-12-02 10:17:16"
     },
     {
         "channel": {
@@ -16,8 +16,18 @@
             "logo": null
         },
         "type": "vmess",
-        "config": "vmess:\/\/eyJ2IjoiMiIsInBzIjoiQGVkbm92YXNmcmVlfFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOHwyLjI5IiwiYWRkIjoic2JsMi5zaGFiaWppY2hhbmcuY29tIiwicG9ydCI6IjgwIiwidHlwZSI6Im5vbmUiLCJpZCI6ImM0NTg2OTVkLTY5MDgtNDVjMy05NTEyLWUwYzQ2NDE4NDU0YyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsImhvc3QiOiJzYmwyLnNoYWJpamljaGFuZy5jb20iLCJ0bHMiOiIifQ==",
-        "time": "2023-12-02 10:13:39"
+        "config": "vmess:\/\/eyJ2IjoiMiIsInBzIjoiQGVkbm92YXNmcmVlfFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOHx1bmF2YWlsYWJsZSIsImFkZCI6Im5zMS52Mi12aXAuZnVuIiwicG9ydCI6IjgwIiwidHlwZSI6Im5vbmUiLCJpZCI6IjJhNjgzYTU0LWYwOTgtNGQ5OC05MmZjLTc2MmI4NWQ5MDdiOSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2FwaVwvdjNcL2Rvd25sb2FkLmdldEZpbGUiLCJob3N0Ijoic3Nyc3ViLnYwMy5zc3JzdWIuY29tIiwidGxzIjoiIn0=",
+        "time": "2023-12-02 10:17:15"
+    },
+    {
+        "channel": {
+            "username": "ednovasfree",
+            "title": null,
+            "logo": null
+        },
+        "type": "vmess",
+        "config": "vmess:\/\/eyJ2IjoiMiIsInBzIjoiQGVkbm92YXNmcmVlfFx1ZDgzZFx1ZGVhOXwyLjE3IiwiYWRkIjoic2JsMi5zaGFiaWppY2hhbmcuY29tIiwicG9ydCI6IjgwIiwidHlwZSI6Im5vbmUiLCJpZCI6ImM0NTg2OTVkLTY5MDgtNDVjMy05NTEyLWUwYzQ2NDE4NDU0YyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsImhvc3QiOiJzYmwyLnNoYWJpamljaGFuZy5jb20iLCJ0bHMiOiIifQ==",
+        "time": "2023-12-02 10:17:14"
     },
     {
         "channel": {
@@ -26,8 +36,8 @@
             "logo": null
         },
         "type": "vmess",
-        "config": "vmess:\/\/eyJ2IjoiMiIsInBzIjoiQHZwc19qZGt6fFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOHwyLjExIiwiYWRkIjoic2trLm1vZSIsInBvcnQiOiI0NDMiLCJpZCI6IjAwNzU5ZmIzLWJmNGQtNGIzMS1hYzA3LWU3NzM1MzU5MjgxMyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJjb3JlLnZwcy1qZGt6LmNmIiwicGF0aCI6IlwvLmNhY2hlZmlsZXNcLzg5ZDg2ZTA3LWY2YTgtNGFhOS05YmEwLWZhZmQyZGMxNzMwMFwvIiwidGxzIjoidGxzIiwic25pIjoiY29yZS52cHMtamRrei5jZiIsImFscG4iOiIifQ==",
-        "time": "2023-12-02 10:13:17"
+        "config": "vmess:\/\/eyJ2IjoiMiIsInBzIjoiQHZwc19qZGt6fFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOHwyLjM4IiwiYWRkIjoic2trLm1vZSIsInBvcnQiOiI0NDMiLCJpZCI6IjAwNzU5ZmIzLWJmNGQtNGIzMS1hYzA3LWU3NzM1MzU5MjgxMyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJjb3JlLnZwcy1qZGt6LmNmIiwicGF0aCI6IlwvLmNhY2hlZmlsZXNcLzg5ZDg2ZTA3LWY2YTgtNGFhOS05YmEwLWZhZmQyZGMxNzMwMFwvIiwidGxzIjoidGxzIiwic25pIjoiY29yZS52cHMtamRrei5jZiIsImFscG4iOiIifQ==",
+        "time": "2023-12-02 10:16:57"
     },
     {
         "channel": {
@@ -36,7 +46,107 @@
             "logo": null
         },
         "type": "vmess",
-        "config": "vmess:\/\/eyJhZGQiOiIxNS4yMzUuMjEwLjU4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjhiZGFkMjU5LTNhNTEtNDJlOC1lMDM0LWJhMTFkYWQyOWQ3ZiIsIm5ldCI6IndzIiwicGF0aCI6IlwvP2VkPTIwNDgiLCJwb3J0IjoiNDExMTEiLCJwcyI6IkBhcmllc19pbml0fFx1ZDgzY1x1ZGRmOFx1ZDgzY1x1ZGRlY3wxNjkuMzQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=",
-        "time": "2023-12-02 10:13:13"
+        "config": "vmess:\/\/eyJhZGQiOiIxNS4yMzUuMjEwLjU4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjhiZGFkMjU5LTNhNTEtNDJlOC1lMDM0LWJhMTFkYWQyOWQ3ZiIsIm5ldCI6IndzIiwicGF0aCI6IlwvP2VkPTIwNDgiLCJwb3J0IjoiNDExMTEiLCJwcyI6IkBhcmllc19pbml0fFx1ZDgzY1x1ZGRmOFx1ZDgzY1x1ZGRlY3wyMTQuMzgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=",
+        "time": "2023-12-02 10:16:54"
+    },
+    {
+        "channel": {
+            "username": "v2ray_free_conf",
+            "title": null,
+            "logo": null
+        },
+        "type": "ss",
+        "config": "ss:\/\/YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.91.102.72:8882#@v2ray_free_conf|\ud83c\uddfa\ud83c\uddf8|54.75",
+        "time": "2023-12-02 10:09:42"
+    },
+    {
+        "channel": {
+            "username": "v2ray_free_conf",
+            "title": null,
+            "logo": null
+        },
+        "type": "vless",
+        "config": "vless:\/\/b23980c6-a87e-4931-b388-437872a302c2@bia_to_vmessorg.mokhin.me:80?encryption=none&amp;host=join.bede.vmessorg.mokhin.me&amp;path=\/&amp;security=none&amp;type=ws#@v2ray_free_conf|\ud83d\udea9|27.61",
+        "time": "2023-12-02 10:01:41"
+    },
+    {
+        "channel": {
+            "username": "vpnfail_v2ray",
+            "title": "\ud83c\udf10 V2Ray Vmess Proxy \ud83e\udd77VPN.fail",
+            "logo": "https:\/\/raw.githubusercontent.com\/yebekhe\/TelegramV2rayCollector\/main\/modules\/channels\/vpnfail_v2ray.jpg"
+        },
+        "type": "vmess",
+        "config": "vmess:\/\/eyJhZGQiOiIxNzIuNjcuMjA3LjExNCIsImFpZCI6MSwiaG9zdCI6Im9waGVsaWEubW9tIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6NDQzLCJwcyI6IkB2cG5mYWlsX3YycmF5fFx1ZDgzZFx1ZGVhOXwyLjE2IiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5IjpmYWxzZSwic25pIjoib3BoZWxpYS5tb20ifQ==",
+        "time": "2023-12-02 09:54:35"
+    },
+    {
+        "channel": {
+            "username": "v2ray_free_conf",
+            "title": null,
+            "logo": null
+        },
+        "type": "vmess",
+        "config": "vmess:\/\/eyJhZGQiOiJ4eXoyMy5mb3J3YXJkdjJyYXl0ZWxlZ3JhbWNoYW5uZWwuZnVuIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ4eXoyMy5mb3J3YXJkdjJyYXl0ZWxlZ3JhbWNoYW5uZWwuZnVuIiwiaWQiOiI4MTlmMTZkYy01NjMyLTQyZGQtODQyNy0wOWE3MDI4NjcwMTYiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL0ZPUldBUkRWMlJBWSIsInBvcnQiOiIyMDk2IiwicHMiOiJAdjJyYXlfZnJlZV9jb25mfFx1ZDgzZFx1ZGVhOXwxLjc2Iiwic2N5IjoiYXV0byIsInNuaSI6Inh5ejIzLmZvcndhcmR2MnJheXRlbGVncmFtY2hhbm5lbC5mdW4iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==",
+        "time": "2023-12-02 09:54:09"
+    },
+    {
+        "channel": {
+            "username": "v2ray_free_conf",
+            "title": null,
+            "logo": null
+        },
+        "type": "vless",
+        "config": "vless:\/\/b23980c6-a87e-4931-b388-437872a302c2@bia_to_vmessorg.mokhin.me:80?encryption=none&amp;host=join.bede.vmessorg.mokhin.me&amp;path=\/&amp;security=none&amp;type=ws#@v2ray_free_conf|\ud83d\udea9|8.04",
+        "time": "2023-12-02 09:35:36"
+    },
+    {
+        "channel": {
+            "username": "v2ray_free_conf",
+            "title": null,
+            "logo": null
+        },
+        "type": "vmess",
+        "config": "vmess:\/\/eyJhZGQiOiI0Ny44OC4xMDYuNDciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNTJmZTg2Y2MtZGI3Zi00M2QwLTgzZjgtN2U0YzkxYTYxZjM1IiwibmV0Ijoid3MiLCJwYXRoIjoiXC9xUlY4ek1NYWpReWV4NEtXVUJraWExdnZIIiwicG9ydCI6IjgwIiwicHMiOiJAdjJyYXlfZnJlZV9jb25mfFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOHw1Mi45NSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==",
+        "time": "2023-12-02 09:22:34"
+    },
+    {
+        "channel": {
+            "username": "v2ray_free_conf",
+            "title": null,
+            "logo": null
+        },
+        "type": "ss",
+        "config": "ss:\/\/YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@54.36.174.181:8119#@v2ray_free_conf|\ud83c\uddeb\ud83c\uddf7|125.57",
+        "time": "2023-12-02 09:13:32"
+    },
+    {
+        "channel": {
+            "username": "v2ray_free_conf",
+            "title": null,
+            "logo": null
+        },
+        "type": "ss",
+        "config": "ss:\/\/YWVzLTI1Ni1nY206OVlHVlJ6K1FnNW5FYURWYWNBN01QVTlBSE5ORU12QlBsVXNWNGpleU56TT0=@www.outline.network.ak2001.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:2443#@v2ray_free_conf|\ud83c\udde6\ud83c\uddf1|112.28",
+        "time": "2023-12-02 09:05:01"
+    },
+    {
+        "channel": {
+            "username": "v2ray_free_conf",
+            "title": null,
+            "logo": null
+        },
+        "type": "vmess",
+        "config": "vmess:\/\/eyJhZGQiOiIyMy45NS42Ny4xODgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNzUzMzNmNGMtZWNlNS00ZjkzLWU0OWMtMGUwYTlmOTAyY2U1IiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0IjoiMjA4MyIsInBzIjoiQHYycmF5X2ZyZWVfY29uZnxcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjh8NTEuODIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=",
+        "time": "2023-12-02 08:41:55"
+    },
+    {
+        "channel": {
+            "username": "vpnfail_vless",
+            "title": null,
+            "logo": null
+        },
+        "type": "reality",
+        "config": "vless:\/\/d5bf0b81-77f1-453f-98f0-902500271ba5@49.13.156.132:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=_759gRoBrB0JvPoRJMZMacuNaGuQIxUnxqzgJJXfQh4&amp;fp=firefox&amp;spx=\/&amp;type=grpc&amp;serviceName=@VPNCUSTOMIZE&amp;sni=b130pbn.myraidbox.de&amp;sid=309d1774#REALITY|@vpnfail_vless|\ud83c\udde9\ud83c\uddea|109.05",
+        "time": "2023-12-02 07:49:08"
     }
 ]
