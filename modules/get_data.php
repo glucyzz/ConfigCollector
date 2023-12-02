@@ -9,7 +9,7 @@ include "ping.php";
 function convert_to_iran_time($utc_timestamp)
 {
     $utc_datetime = new DateTime($utc_timestamp);
-    $utc_datetime->setTimezone(new DateTimeZone("Asia/Tehran"));
+    $utc_datetime->setTimezone(new DateTimeZone("Asia/Shanghai"));
     return $utc_datetime->format("Y-m-d H:i:s");
 }
 
