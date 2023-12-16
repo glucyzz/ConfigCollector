@@ -1,9 +1,8 @@
-trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@download1hkt.windowsupdatea.com:443?security=tls&sni=glc-hkt1.windowsupdatea.com&type=tcp#🇭🇰|@v2ray_free_conf|223.03
-trojan://telegram-id-privatevpns@3.10.123.166:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇬🇧|@PrivateVPNs|92.08
-trojan://telegram-id-privatevpns@52.212.86.19:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇮🇪|@PrivateVPNs|88.59
-trojan://telegram-id-privatevpns@34.240.196.248:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇮🇪|@PrivateVPNs|98.64
-trojan://telegram-id-directvpn@18.194.39.15:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇩🇪|@DirectVPN|93.15
-trojan://telegram-id-directvpn@18.199.16.244:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇩🇪|@DirectVPN|89.83
-trojan://9ebdbb4a-8ae6-45e8-9169-33fe68fdbaae@141.94.221.127:80?headerType=none&security=tls&sni=ftp.debian.org&type=tcp#🇫🇷|@v2ray1_ng|80.42
-trojan://2bcd4a9d-67eb-40ac-b67c-ba851f1eb5d3@fr1-t.sshmax.xyz:80?headerType=none&security=tls&sni=fr1-t.sshmax.xyz&type=tcp#🇫🇷|@v2ray1_ng|88.87
-trojan://c0d04c20-99c9-11ee-be8b-1239d0255272@de1.test3.net:443?headerType=none&security=tls&sni=zula.ir&type=tcp#🇩🇪|@v2ray1_ng|95.39
+trojan://telegram-id-privatevpns@3.10.123.166:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇬🇧|@PrivateVPNs|97.75
+trojan://telegram-id-privatevpns@52.212.86.19:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇮🇪|@PrivateVPNs|84.42
+trojan://telegram-id-privatevpns@34.240.196.248:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇮🇪|@PrivateVPNs|100.87
+trojan://telegram-id-directvpn@18.194.39.15:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇩🇪|@DirectVPN|90.88
+trojan://telegram-id-directvpn@18.199.16.244:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇩🇪|@DirectVPN|96.17
+trojan://9ebdbb4a-8ae6-45e8-9169-33fe68fdbaae@141.94.221.127:80?headerType=none&security=tls&sni=ftp.debian.org&type=tcp#🇫🇷|@v2ray1_ng|80.31
+trojan://2bcd4a9d-67eb-40ac-b67c-ba851f1eb5d3@fr1-t.sshmax.xyz:80?headerType=none&security=tls&sni=fr1-t.sshmax.xyz&type=tcp#🇫🇷|@v2ray1_ng|91.58
+trojan://c0d04c20-99c9-11ee-be8b-1239d0255272@de1.test3.net:443?headerType=none&security=tls&sni=zula.ir&type=tcp#🇩🇪|@v2ray1_ng|98.06
