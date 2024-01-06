@@ -2,6 +2,11 @@
 date_default_timezone_set("Asia/Shanghai");
 
 $Types = [
+    "iP_CF" => ["vmess", "trojan", "ss","vless"],
+    "azadi_az_inja_migzare" => ["vmess", "trojan", "ss","vless"],
+    "V2rayCollectorDonate" => ["vmess", "trojan", "ss","vless"],
+    "forwardv2ray" => ["vmess", "trojan", "ss","vless"],
+    "reality_dailyt" => ["vmess", "trojan", "ss","vless"],
     "aries_init" => ["vmess", "trojan", "ss","vless"],
     "vps_jdkz" => ["vmess", "trojan", "ss","vless"],
     "ShareCentrePro" => ["vmess", "trojan", "ss","vless"],
