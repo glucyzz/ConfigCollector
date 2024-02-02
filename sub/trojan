@@ -1,8 +1,7 @@
-trojan://ebecf1d2-6db1-4caa-9fa4-f4504b0328e5@51.75.77.237:443?security=tls&type=tcp#🇩🇪|@v2ray_free_conf|110.58
-trojan://telegram-id-privatevpns@35.176.84.46:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#🇬🇧|@PrivateVPNs|122.6
-trojan://telegram-id-privatevpns@13.42.130.228:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#🇬🇧|@PrivateVPNs|103.13
-trojan://telegram-id-privatevpns@54.228.127.233:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#🇮🇪|@PrivateVPNs|86.8
-trojan://7884d564-5873-4321-9fad-b5f82236d79e@185.18.250.220:443?alpn=h2&fp=chrome&mode=gun&security=tls&serviceName=dxgVtBfHcBj8UXo&sni=1.digikala.sbs&type=grpc#🇪🇸|@VmessProtocol|2.03
-trojan://61817e64-10ca-47be-97e8-9d6ff6aa2a5d@clean1.freelines.net:443?fp=chrome&host=rsfrndc.foriran.trade&path=%2F3D8U0cLhe2MGwH9c1eh1994&security=tls&sni=rsfrndc.foriran.trade&type=ws#🚩|@VmessProtocol|2.69
-trojan://1YcFVMZWx_OiEBEvnEMtrg@190.93.245.187:2083?host=arv2.aticloud.ir&path=%2F&security=tls&sni=arv2.aticloud.ir&type=ws#🚩|@VmessProtocol|1.97
-trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|2.13
+trojan://ebecf1d2-6db1-4caa-9fa4-f4504b0328e5@51.75.77.237:443?security=tls&type=tcp#🇩🇪|@v2ray_free_conf|92.9
+trojan://telegram-id-privatevpns@54.228.127.233:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#🇮🇪|@PrivateVPNs|71.08
+trojan://telegram-id-privatevpns@54.229.147.183:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#🇮🇪|@PrivateVPNs|70.7
+trojan://7884d564-5873-4321-9fad-b5f82236d79e@185.18.250.220:443?alpn=h2&fp=chrome&mode=gun&security=tls&serviceName=dxgVtBfHcBj8UXo&sni=1.digikala.sbs&type=grpc#🇪🇸|@VmessProtocol|5.38
+trojan://61817e64-10ca-47be-97e8-9d6ff6aa2a5d@clean1.freelines.net:443?fp=chrome&host=rsfrndc.foriran.trade&path=%2F3D8U0cLhe2MGwH9c1eh1994&security=tls&sni=rsfrndc.foriran.trade&type=ws#🚩|@VmessProtocol|6.3
+trojan://1YcFVMZWx_OiEBEvnEMtrg@190.93.245.187:2083?host=arv2.aticloud.ir&path=%2F&security=tls&sni=arv2.aticloud.ir&type=ws#🚩|@VmessProtocol|5.49
+trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|5.19
