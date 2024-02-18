@@ -2,6 +2,9 @@
 date_default_timezone_set("Asia/Shanghai");
 
 $Types = [
+    "juzibaipiao" => ["vmess", "trojan", "ss","vless"],
+    "ZDYZ2" => ["vmess", "trojan", "ss","vless"],
+    "aifenxiang2020" => ["vmess", "trojan", "ss","vless"],
     "iP_CF" => ["vmess", "trojan", "ss","vless"],
     "azadi_az_inja_migzare" => ["vmess", "trojan", "ss","vless"],
     "V2rayCollectorDonate" => ["vmess", "trojan", "ss","vless"],
