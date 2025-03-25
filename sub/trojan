@@ -1,8 +1,9 @@
-trojan://telegram-id-privatevpns@52.47.45.10:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@v2ray_free_conf|84.36
-trojan://telegram-id-privatevpns@35.177.129.51:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇬🇧|@PrivateVPNs|77.26
-trojan://telegram-id-privatevpns@54.195.170.13:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇮🇪|@PrivateVPNs|67.03
-trojan://telegram-id-privatevpns@3.255.12.20:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇮🇪|@PrivateVPNs|74.17
-trojan://telegram-id-directvpn@3.72.132.84:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN|89.82
-trojan://telegram-id-directvpn@63.176.225.52:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN|155.33
-trojan://Pooria@104.17.148.22:443?path=trPyOrWMfkHd15oxiI%3Fed%3D1520#@v2ray_alpha&security=tls&alpn=h2,http/1.1&host=301.pooriam.ir&fp=randomized&type=ws&sni=301.pOORiAm.ir#🚩|@v2ray1_ng|1.6
-trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|1.54
+trojan://telegram-id-privatevpns@52.47.45.10:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@v2ray_free_conf|146.02
+trojan://telegram-id-directvpn@63.176.225.52:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@v2ray_free_conf|192.43
+trojan://telegram-id-privatevpns@35.177.129.51:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇬🇧|@PrivateVPNs|146.28
+trojan://telegram-id-privatevpns@54.195.170.13:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇮🇪|@PrivateVPNs|136.42
+trojan://telegram-id-privatevpns@3.255.12.20:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇮🇪|@PrivateVPNs|166.38
+trojan://telegram-id-directvpn@3.72.132.84:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN|160.15
+trojan://telegram-id-directvpn@13.53.50.52:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇸🇪|@DirectVPN|172.29
+trojan://Pooria@104.17.148.22:443?path=trPyOrWMfkHd15oxiI%3Fed%3D1520#@v2ray_alpha&security=tls&alpn=h2,http/1.1&host=301.pooriam.ir&fp=randomized&type=ws&sni=301.pOORiAm.ir#🚩|@v2ray1_ng|1.66
+trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|1.42
