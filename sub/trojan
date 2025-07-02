@@ -1,10 +1,5 @@
-trojan://telegram-id-directvpn@51.44.233.60:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@v2ray_free_conf|104.79
-trojan://telegram-id-directvpn@18.197.182.128:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@v2ray_free_conf|112.68
-trojan://telegram-id-privatevpns@3.65.5.221:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@PrivateVPNs|111.97
-trojan://telegram-id-privatevpns@51.44.233.60:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs|104.21
-trojan://telegram-id-privatevpns@51.44.229.66:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs|102.5
-trojan://telegram-id-directvpn@3.65.5.221:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN|112.62
-trojan://telegram-id-directvpn@51.44.229.66:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN|103.34
-trojan://5a5d1112-4ae7-431f-bdde-0d008fb473dd@172.67.207.27:443?alpn=http%2F1.1&fp=chrome&host=90.taipei108.dpdns.org&path=%2F685uFbiRrgAsHzTP8d&security=tls&sni=90.tAIpEI108.dpDnS.orG&type=ws#🚩|@v2ray1_ng|2.16
-trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|2.45
-trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002#🇯🇵|@yaney_01|380.18
+trojan://telegram-id-directvpn@18.197.182.128:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@v2ray_free_conf|113.91
+trojan://telegram-id-privatevpns@51.44.233.60:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs|105.03
+trojan://5a5d1112-4ae7-431f-bdde-0d008fb473dd@172.67.207.27:443?alpn=http%2F1.1&fp=chrome&host=90.taipei108.dpdns.org&path=%2F685uFbiRrgAsHzTP8d&security=tls&sni=90.tAIpEI108.dpDnS.orG&type=ws#🚩|@v2ray1_ng|2.09
+trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|2.54
+trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002#🇯🇵|@yaney_01|147.79
