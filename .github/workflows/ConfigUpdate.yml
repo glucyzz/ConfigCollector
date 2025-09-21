@@ -3,7 +3,7 @@ name: "Config Update"
 on:
   workflow_dispatch:
   schedule:
-    - cron: '*/60 * * * *'
+    - cron: '0 0 * * *'
     
 jobs:
   build:
